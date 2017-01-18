@@ -1,2 +1,2 @@
-# githubBattle
+# Github Battle
 React Fundamentals
